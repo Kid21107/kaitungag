@@ -68,8 +68,8 @@ getgenv().Config = {
         }
     },
     ["Webhook"] = {
-        ["Enabled"] = false,
-        ["Url"] = "",
+        ["Enabled"] = true,
+        ["Url"] = "https://discord.com/api/webhooks/1384125950702129152/Pza5UqtiDKkR5A-edtxC2Hd7ARBYbYdkZ43RqQ1yJuNdCLx5X4y75BFRFdQH0nki7l9N",
         ["Webhook Profile"] = true,
         ["Webhook Collect Egg"] = true,
     }
